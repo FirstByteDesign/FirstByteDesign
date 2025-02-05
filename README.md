@@ -1,6 +1,6 @@
 ## Hey.
 
-I will never remember to update this... but anyways:
+This is my secondary git for personal projects so I will never remember to update this but anyways:
   Most used IDEs: VS Code, Visual Studio, STM32Cube, Microchip Studio...
   Language proficiencies: C++, C# and Python.
   Familiar languages: JS, TS, CSS, HTML, Java...
